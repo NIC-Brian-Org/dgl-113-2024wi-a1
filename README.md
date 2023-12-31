@@ -26,3 +26,9 @@ Before final stage, commit, and push, be sure to set the variables as follows:
 - `nightlyRate` to $225
 - `pstRate` to 8%
 - `gstRate` to 5%
+
+NOTE: Only modify the `docs/app.js` file. Do not make changes to any other files.
+
+The final result will look like the image below.
+
+![screenshot](screenshot.png)
