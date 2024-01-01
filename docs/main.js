@@ -10,7 +10,7 @@
     // ordinary values
     ['guestName', 'numberOfNights'].map((id) => setContent(id, eval(id)));
 
-    // dollar valuse
+    // dollar values
     ['nightlyRate', 'subTotal', 'pstAmount', 'gstAmount', 'total'].map((id) =>
       setContent(id, '$' + eval(id).toFixed(2))
     );
