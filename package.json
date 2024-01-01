@@ -20,8 +20,8 @@
     "test-pstRate-value": "jest pstRate-value",
     "test-subTotal-type": "jest subTotal-type",
     "test-subTotal-value": "jest subTotal-value",
-    "test-total-type": "jest total-type",
-    "test-total-value": "jest -value"
+    "test-total-type": "jest tests/total-type.test.js",
+    "test-total-value": "jest tests/total-value.test.js"
   },
   "author": "Brian Koehler",
   "license": "MIT",
