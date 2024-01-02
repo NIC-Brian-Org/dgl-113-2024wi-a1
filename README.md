@@ -16,6 +16,8 @@ In the `docs/app.js` file, declare and and initialize the following variables:
 
 - `guestName` containing the name of the guest; use the `prompt(...)` function like
   in the demonstration to ask the user to enter the guest name.
+- `guestMessage` containing the subheading for the page, like `Guest: Adam Smith`;
+  this will be a string expression using `guestName`
 - `numberOfNights` containing the number of nights of the hotel stay; use the
   `parseInt(prompt(...))` functions like in the demonstration to ask the user to enter
   the number of nights for their stay and to convert their response to an integer
