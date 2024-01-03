@@ -8,7 +8,7 @@
     };
 
     // ordinary values
-    ['guestName', 'numberOfNights'].map((id) => setContent(id, eval(id)));
+    ['guestMessage', 'numberOfNights'].map((id) => setContent(id, eval(id)));
 
     // dollar values
     ['nightlyRate', 'subTotal', 'pstAmount', 'gstAmount', 'total'].map((id) =>
